@@ -1,0 +1,13 @@
+.CodeMirror{
+    height:800px!important;
+    color: black !important;;
+
+}
+.CodeMirror-gutters{
+    background:white !important;
+    
+}
+.CodeMirror-scroll {
+    background:white ;
+
+}
